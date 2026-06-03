@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sorin 👋
 
-<!--
-**samoxis/samoxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech enthusiast and builder focusing on Data Center infrastructure, self-hosted AI ecosystems, and advanced hardware automation. I specialize in orchestrating local LLMs and designing custom high-end systems.
 
-Here are some ideas to get you started:
+## 🛠️ Home Lab Setup ("samoxis")
+* **Environment:** Windows 11 + WSL2 Ubuntu
+* **Hardware:** i9-14900KS, RTX 4090 (Custom Dual-Loop Watercooled), 64GB DDR5 6400MHz
+* **Network & Security:** ASUS RT-AXE7800, AdGuard DoT Strict
+* **AI Infrastructure:** Ollama (Qwen, Gemma, Llama), ChromaDB, OpenClaw Gateway
+* **Monitoring:** Custom PowerShell Vault tracking EventLogs, thermals, and system health
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Tech Stack
+* 💻 **Languages:** Python (FastAPI, AI agents), Bash (WSL automation), PowerShell (system diagnostics)
+* 🤖 **Key Projects:**
+  * **NEXUS:** Unrestricted AI agent on OpenClaw with Telegram integration, auto-fallback, and web search proxy.
+  * **Jarvis:** Local FastAPI majordom with 3-layer memory (facts, SQLite, ChromaDB) and Windows system scan capabilities.
+  * **FYLAX:** On-device Android agent (Hermes + RAG) running via Termux.
+* 🔧 **Current Focus:** Multi-agent AI architectures, local LLM orchestration, and Data Center / Critical Power engineering.
